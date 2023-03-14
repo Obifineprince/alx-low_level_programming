@@ -6,7 +6,7 @@
  * and initializes it with a specific char
  * @size: input parameter
  * @c: input parameter
- * Returns: NULL if size is = 0
+ * Return: NULL if size is = 0
  */
 
 char *create_array(unsigned int size, char c)
